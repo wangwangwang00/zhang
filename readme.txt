@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 git add readme.txt
 $ git status
+test
